@@ -6,7 +6,7 @@
   <link href="https://mmdghz.tech/atom.xml" rel="self"/>
   
   <link href="https://mmdghz.tech/"/>
-  <updated>2025-08-17T05:06:41.850Z</updated>
+  <updated>2025-07-18T10:04:06.906Z</updated>
   <id>https://mmdghz.tech/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>下载Postman官方历史版本 | Download Postman Official Historical Versions</title>
-    <link href="https://mmdghz.tech/2025/08/17/d3a309a0-7b21-11f0-9e58-65edcdcb5d41.html"/>
-    <id>https://mmdghz.tech/2025/08/17/d3a309a0-7b21-11f0-9e58-65edcdcb5d41.html</id>
-    <published>2025-08-17T04:22:46.000Z</published>
-    <updated>2025-08-17T05:06:41.850Z</updated>
-    
-    
-    <summary type="html">Record how to download historical versions of Postman, including version lookup and download link patterns. 记录如何下载Postman的历史版本，包括版本查询和下载链接规律.</summary>
-    
-    
-    
-    <category term="问题解决" scheme="https://mmdghz.tech/categories/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/"/>
-    
-    <category term="常见问题" scheme="https://mmdghz.tech/categories/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/"/>
-    
-    
-    <category term="Postman" scheme="https://mmdghz.tech/tags/Postman/"/>
-    
-    <category term="Tool Download" scheme="https://mmdghz.tech/tags/Tool-Download/"/>
-    
-  </entry>
   
   <entry>
     <title>BigQuery Billing Disaster How a Simple Query Cost 15000 and How to Prevent It</title>
