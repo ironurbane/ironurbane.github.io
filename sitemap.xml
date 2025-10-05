@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mmdghz.tech/ads.html</loc>
-    
-    <lastmod>2025-10-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://mmdghz.tech/2025/07/18/c37fd970-63bd-11f0-9189-fd09e1bc4823.html</loc>
     
     <lastmod>2025-07-18</lastmod>
@@ -20,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://mmdghz.tech/self-talking/index.html</loc>
+    <loc>https://mmdghz.tech/message/index.html</loc>
     
     <lastmod>2025-05-04</lastmod>
     
@@ -29,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://mmdghz.tech/message/index.html</loc>
+    <loc>https://mmdghz.tech/self-talking/index.html</loc>
     
     <lastmod>2025-05-04</lastmod>
     
@@ -65,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://mmdghz.tech/2025/03/16/c8455a36-900c-499e-b59d-9a40a16e.html</loc>
+    <loc>https://mmdghz.tech/2025/03/14/a945eb1d-9198-43f7-ae64-614f6709.html</loc>
     
     <lastmod>2025-05-04</lastmod>
     
@@ -74,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://mmdghz.tech/2025/03/14/a945eb1d-9198-43f7-ae64-614f6709.html</loc>
+    <loc>https://mmdghz.tech/2025/03/16/c8455a36-900c-499e-b59d-9a40a16e.html</loc>
     
     <lastmod>2025-05-04</lastmod>
     
@@ -303,6 +294,83 @@
   </url>
   
   <url>
+    <loc>https://mmdghz.tech/tags/%E7%BE%A4%E6%99%96/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/tags/NAS/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/tags/DSM%E9%99%8D%E7%BA%A7/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/tags/Video-Station/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/tags/%E7%B3%BB%E7%BB%9F%E5%9B%9E%E9%80%80/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/tags/DS218play/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/tags/iPhone/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/tags/iPad/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/tags/%E6%8E%A5%E5%8A%9B%E5%8A%9F%E8%83%BD/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/tags/iCloud%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/tags/Handoff/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://mmdghz.tech/tags/%E5%89%AF%E4%B8%9A%E5%88%9B%E4%B8%9A/</loc>
     <lastmod>2025-10-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -359,48 +427,6 @@
   </url>
   
   <url>
-    <loc>https://mmdghz.tech/tags/%E7%BE%A4%E6%99%96/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/tags/NAS/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/tags/DSM%E9%99%8D%E7%BA%A7/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/tags/Video-Station/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/tags/%E7%B3%BB%E7%BB%9F%E5%9B%9E%E9%80%80/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/tags/DS218play/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://mmdghz.tech/tags/Docker/</loc>
     <lastmod>2025-10-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -442,45 +468,31 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://mmdghz.tech/tags/iPhone/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/tags/iPad/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/tags/%E6%8E%A5%E5%8A%9B%E5%8A%9F%E8%83%BD/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/tags/iCloud%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/tags/Handoff/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://mmdghz.tech/categories/%E4%BA%91%E5%B9%B3%E5%8F%B0/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/categories/%E4%BA%91%E5%B9%B3%E5%8F%B0/GCP/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/categories/%E4%BA%91%E5%B9%B3%E5%8F%B0/GCP/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmdghz.tech/categories/%E4%BA%91%E5%B9%B3%E5%8F%B0/GCP/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</loc>
     <lastmod>2025-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -508,7 +520,7 @@
   </url>
   
   <url>
-    <loc>https://mmdghz.tech/categories/%E4%BA%91%E5%B9%B3%E5%8F%B0/GCP/</loc>
+    <loc>https://mmdghz.tech/categories/%E4%B8%9A%E7%95%8C%E6%96%B0%E9%97%BB/AI%E6%A8%A1%E5%9E%8B%E4%B8%8E%E8%B6%8B%E5%8A%BF/</loc>
     <lastmod>2025-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -516,13 +528,6 @@
   
   <url>
     <loc>https://mmdghz.tech/categories/%E5%88%9B%E4%B8%9A%E5%89%AF%E4%B8%9A/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/categories/%E4%B8%9A%E7%95%8C%E6%96%B0%E9%97%BB/AI%E6%A8%A1%E5%9E%8B%E4%B8%8E%E8%B6%8B%E5%8A%BF/</loc>
     <lastmod>2025-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -543,20 +548,6 @@
   </url>
   
   <url>
-    <loc>https://mmdghz.tech/categories/%E4%BA%91%E5%B9%B3%E5%8F%B0/GCP/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/categories/%E5%88%9B%E4%B8%9A%E5%89%AF%E4%B8%9A/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://mmdghz.tech/categories/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</loc>
     <lastmod>2025-10-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -571,6 +562,13 @@
   </url>
   
   <url>
+    <loc>https://mmdghz.tech/categories/%E5%88%9B%E4%B8%9A%E5%89%AF%E4%B8%9A/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2025-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://mmdghz.tech/categories/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/%E7%B3%BB%E7%BB%9F%E5%B9%B3%E5%8F%B0/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2025-10-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -578,14 +576,7 @@
   </url>
   
   <url>
-    <loc>https://mmdghz.tech/categories/%E4%BA%91%E5%B9%B3%E5%8F%B0/GCP/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</loc>
-    <lastmod>2025-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmdghz.tech/categories/%E5%88%9B%E4%B8%9A%E5%89%AF%E4%B8%9A/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/</loc>
+    <loc>https://mmdghz.tech/categories/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/%E7%B3%BB%E7%BB%9F%E5%B9%B3%E5%8F%B0/%E5%AE%B9%E5%99%A8/</loc>
     <lastmod>2025-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -599,7 +590,7 @@
   </url>
   
   <url>
-    <loc>https://mmdghz.tech/categories/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/%E7%B3%BB%E7%BB%9F%E5%B9%B3%E5%8F%B0/%E5%AE%B9%E5%99%A8/</loc>
+    <loc>https://mmdghz.tech/categories/%E5%88%9B%E4%B8%9A%E5%89%AF%E4%B8%9A/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2025-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
